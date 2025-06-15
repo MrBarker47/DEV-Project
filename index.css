@@ -1,13 +1,17 @@
 body {
     background-color: rgb(215, 187, 117);
+
 }
+
+
+
 
 /* Nav */
 nav {
   display: flex;
   justify-content: center;
   gap: 30px;
-  background-color: rgb(204, 237, 226);
+  background-color: rgb(212, 134, 40);
   position: fixed;
   top: 0px;
   width: 100%; 
@@ -29,5 +33,7 @@ li {
 }
 
 h1 {
-    margin: 80px;
+  text-align: center;
+  margin: 80px;
+
 }
