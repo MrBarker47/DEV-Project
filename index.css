@@ -1,14 +1,33 @@
-/* Navbar */
-nav a {
+body {
+    background-color: rgb(215, 187, 117);
+}
+
+/* Nav */
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  background-color: rgb(204, 237, 226);
+  position: fixed;
+  top: 0px;
+  width: 100%; 
+  left: 0px;
+  bottom: 650px;
+  padding-top: 20px;
+  
+}
+
+nav li a {
     text-decoration: none;
- }
+    font-size: 20px;
+ 
+}
 
 li {
     list-style: none;
+       margin-bottom: 320px;
 }
 
-nav {
-    display: flex;
-    justify-self: center;
-    gap: 30px;
+h1 {
+    margin: 80px;
 }
