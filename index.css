@@ -1,0 +1,14 @@
+/* Navbar */
+nav a {
+    text-decoration: none;
+ }
+
+li {
+    list-style: none;
+}
+
+nav {
+    display: flex;
+    justify-self: center;
+    gap: 30px;
+}
