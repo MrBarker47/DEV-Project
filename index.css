@@ -5,6 +5,7 @@
 
 
 body {
+  /* I added a background button, with a father with his daughter */
   background-image: url(/pexels-any-lane-5728305.jpg);
   background-size: cover;
   background-blend-mode:darken;
@@ -67,4 +68,19 @@ a:hover {
   text-shadow: 2px 2px black;
   font-size: 200px;
   color: rgb(188, 168, 109);
+}
+
+.headline2 {
+  text-align: center;
+    text-shadow: 2px 2px black;
+  font-size: 100px;
+  color: rgb(188, 168, 109);
+}
+
+.content {
+  background-color: rgb(219, 196, 145);
+  width: 20%;
+  display: flex;
+  justify-self: center;
+  margin-top: 100px;
 }
