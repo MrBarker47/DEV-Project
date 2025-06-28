@@ -79,11 +79,15 @@ li {
 
 .content {
   background-color: rgb(219, 196, 145);
-  width: 20%;
+  width: 40%;
   justify-self: center;
   margin-top: 100px;
-
   
-
 }
 
+/* 
+#btn {
+  display: flex;
+  justify-self: center;
+  font-size: larger;
+} */
