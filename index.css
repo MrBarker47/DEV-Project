@@ -106,5 +106,6 @@ color: rgb(188, 168, 109);
 .d-block {
   display: flex;
   justify-self: center;
-  height: 720px;
+  height: 820px;
+  width: 200px;
 }
