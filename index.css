@@ -6,7 +6,7 @@
 
 body {
   /* I added a background button, with a father with his daughter */
-  background-image: url(/pexels-any-lane-5728305.jpg);
+  background-image: url(images/pexels-any-lane-5728305.jpg);
   background-size: cover;
   background-blend-mode:darken;
   background-color: rgb(247, 233, 233);
