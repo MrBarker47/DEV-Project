@@ -81,7 +81,7 @@ li {
   background-color: rgb(219, 196, 145);
   width: 40%;
   justify-self: center;
-  margin-top: 100px;
+  margin-top: 60px;
   font-size: 30px;
 }
 
@@ -91,4 +91,20 @@ text-align: center;
 text-shadow: 2px 2px black;
 font-size: 100px;
 color: rgb(188, 168, 109);
+}
+
+
+/* Contact */
+.contact {
+  text-align: center;
+  text-shadow: 2px 2px black;
+  color: rgb(188, 168, 109);
+  font-size: 40px;
+}
+
+/* images */
+.d-block {
+  display: flex;
+  justify-self: center;
+  height: 720px;
 }
