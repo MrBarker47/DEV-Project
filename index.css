@@ -104,7 +104,7 @@ color: rgb(188, 168, 109);
 
 /* images */
 .d-block {
-  display: flex;
+  /* display: flex;
   justify-self: center;
-  height: 720px;
+  height: 720px; */
 }
